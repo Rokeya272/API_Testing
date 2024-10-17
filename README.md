@@ -23,14 +23,18 @@ This project demonstrates API testing using Postman, providing a collection of t
 
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
-3. Import the Postman collection:
+   ```console 
+   https://github.com/Rokeya272/API_Testing_Project_01.git
+   ```
+
+5. Import the Postman collection:
     - Open Postman.
     - Click on the Import button.
     - Select the file from the repository.
-4. Import the Postman environment:
+6. Import the Postman environment:
     - In Postman, click on the gear icon in the top right corner.
     - Select **Import** and choose the file.
-5. Newman and Report Installation Process:
+7. Newman and Report Installation Process:
     - Newman Install Command:
      ```console 
       npm install -g newman
