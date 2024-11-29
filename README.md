@@ -23,8 +23,8 @@ This project demonstrates API testing using Postman, providing a collection of t
 
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
-   ```console 
-   https://github.com/Rokeya272/Project_01_API_Testing_using_Postman.git
+   ```console
+   https://github.com/Rokeya272/API_Testing_using_Postman_Project_01.git
    ```
 
 5. Import the Postman collection:
